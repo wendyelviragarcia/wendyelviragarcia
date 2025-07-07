@@ -9,4 +9,4 @@ My research focuses on clinical phonetics and phonetic variation. I have created
 - 💻 I program mainly in Praat and R and love Open Science. 
 - 💬 I work on Catalan, Spanish and occasionaly on other Romance languages (such as Asturian, Rumantsch, Sardinian...).
 - 📫 Find my at my [personal webpage](https://www.ub.edu/phoneticslaboratory/sites/wendyelvira/), the [lab’s website](https://www.ub.edu/phoneticslaboratory), and here in GitHub.
-- 💅 NFun fact about me: if my nails and/or make up are not matching, I am really stressed.
+- 💅  Fun fact about me: if my nails and/or make up are not matching, I am really stressed.
