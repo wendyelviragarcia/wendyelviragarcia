@@ -1,16 +1,15 @@
-## Hi there 👋
+-->
+**Wendy Elvira-García, PhD**  
+Assistant Professor (Serra Húnter Fellow)  
+University of Barcelona, Spain  
 
-<!--
-**wendyelviragarcia/wendyelviragarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a phonetician and assistant professor (tenure-eligible Serra Húnter fellow) at the University of Barcelona,at the Phonetics Laboratory, I am also editor-in-chief of the Diamond Open Access journal *Estudios de Fonética Experimental*.  
 
-Here are some ideas to get you started:
+My research focuses on clinical phonetics and phonetic variation. I have created tools for clinical and forensic acoustic analysis, including an automatic transcriber of Spanish and Catalan intonation, and software for calculating prosodic distances across linguistic varieties (dialectometry). I also love to help to design linguistic databases and record data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I program mainly in Praat and R and love Open Science. 
+
+- 📫 Find my at my [personal webpage](https://www.ub.edu/phoneticslaboratory/sites/wendyelvira/), the [lab’s website](https://www.ub.edu/phoneticslaboratory), and here in GitHub.
+- 💬 I work on Catalan, Spanish and other occasionaly on other Romance languages.
+
 -->
